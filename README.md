@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 PhD student currently - supported (PhD committed until 2025-04) by Ossis Corp.
 Project overview;
+
 **Motivation
 Bone Tumour surgery needs to account for both errors in surgical procedure and in tumour margin interpretation identification (namely radiological resolution and microscopic infiltration). Guidelines advise surgeons to remove significant healthy (functional) tissue (1-2cm) with tumours just-in-case. However, the recent accessibility of computation has supercharged innovation – surgical cutting guides, custom implants, robotics, and interop navigation reduce surgical procedure errors by leveraging radiology. However, representative data to re-evaluate or augment guidelines remains elusive.
 
